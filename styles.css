@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 150px;
+    gap: 20px;
+}
+a{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
